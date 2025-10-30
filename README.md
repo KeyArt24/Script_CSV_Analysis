@@ -9,7 +9,7 @@
 Обработка несуществующих файлов
 <img width="1409" height="362" alt="image" src="https://github.com/user-attachments/assets/d2af1662-f1e6-4fb5-ae93-435a1383eb51" />
 
-Выбор директории сохранения отчёта через опцию -pod
+Выбор имени файла отчёта через опцию --report
 <img width="1510" height="266" alt="image" src="https://github.com/user-attachments/assets/238f7e99-54c1-4667-9e19-d705b1645ace" />
 
 
