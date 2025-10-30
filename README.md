@@ -13,7 +13,7 @@
 <img width="1657" height="338" alt="image" src="https://github.com/user-attachments/assets/b632fbd3-8eda-43d7-a7ae-92356a103ff2" />
 
 Выбор имени файла отчёта через опцию --report
-<img width="1510" height="266" alt="image" src="https://github.com/user-attachments/assets/238f7e99-54c1-4667-9e19-d705b1645ace" />
+<img width="1619" height="267" alt="image" src="https://github.com/user-attachments/assets/d932f561-066e-4c62-87cd-bb8fd98b91bb" />
 
 
 
